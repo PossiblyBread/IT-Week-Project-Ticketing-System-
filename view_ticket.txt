@@ -1,0 +1,52 @@
+<?php
+include "db_conn.php";
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>IT Support Management</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <h1>IT Support Management</h1>
+        <span>Agent: K.I. Molinyawe</span>
+    </div>
+
+    <table>
+        <tr>
+            <td>b</td>
+            <td>b</td>
+            <td>b</td>
+            <td>b</td>
+            <td>b</td>
+            <td>b</td>
+            <td></td>
+        </tr>
+    </table>
+
+</body>
+
+<style>
+        .navbar {
+            background-color: #f2f2f2;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        .navbar h1 {
+            font-size: 24px;
+            color: #333;
+            margin: 0;
+        }
+        
+        .navbar span {
+            font-size: 14px;
+            color: #666;
+        }
+</style>
+
+</html>
+
+
